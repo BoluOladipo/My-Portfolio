@@ -34,7 +34,7 @@ BEDMA Technology
   }
 
   if (cmd === "about") {
-    response = `> C:/Projects/Oladipo Boluwaduro> About me
+    response = `> C:/About/Oladipo Boluwaduro> About me
 
 I'm Oladipo Boluwaduro — a front-end developer passionate about crafting seamless, responsive, and interactive digital products.
 Clean code. Creative UI/UX. Anime-level focus. ⚔️
@@ -59,7 +59,7 @@ Skills:
   }
 
   if (cmd === "experience") {
-    response = `>  C:/Projects/Oladipo Boluwaduro> Boluwaduro experience
+    response = `>  C:/Experience/Oladipo Boluwaduro> Boluwaduro experience
 
  Hackathon Finalist — Built a voting platform.
 
@@ -94,7 +94,7 @@ I founded Zino_Dev_Hub to create a community for developers to learn, collaborat
   }
 
   if (cmd === "contact") {
-    response = `> C:/Projects/Oladipo Boluwaduro> Boluwaduro contact
+    response = `> C:/Contact/Oladipo Boluwaduro> Boluwaduro contact
 
 📧 boluemmanuel071@gmail.com
 📱  Whatsapp : 07075800632
@@ -104,7 +104,7 @@ I founded Zino_Dev_Hub to create a community for developers to learn, collaborat
   }
  
    if (cmd === "tech stack") {
-    response = `> C:/Projects/Oladipo Boluwaduro> Boluwaduro Tech Stack
+    response = `> C:/tech stack/Oladipo Boluwaduro> Boluwaduro Tech Stack
 PROGRAMMING LANGUAGES:
 
 C
