@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: 'Fira Code', monospace;
+  background: #0f0f1c;
+  color: #f8f8f8;
+}
+
+.navbar {
+  display: flex;
+  gap: 20px;
+  padding: 15px 25px;
+  background: #0a0a14;
+  box-shadow: 0 0 10px #6a00ff;
+}
+
+.navbar button {
+  background: transparent;
+  border: none;
+  color: #9e00ff;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.navbar button:hover {
+  color: #fff;
+}
+
+.terminal {
+  max-width: 900px;
+  margin: 30px auto;
+  background: #0a0a14;
+  border-radius: 10px;
+  box-shadow: 0 0 20px #6a00ff;
+  padding: 30px;
+  overflow-y: auto;
+  height: 600px;
+}
+
+.profile {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.profile img {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  border: 4px solid #6a00ff;
+  box-shadow: 0 0 25px #9e00ff;
+}
+
+#terminalOutput {
+  white-space: pre-line;
+  font-size: 16px;
+  padding-top: 10px;
+  overflow-y: auto;
+}
